@@ -1,0 +1,46 @@
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+	body {
+		background-color: #f0f0f0;
+		}
+        /* Стили для кнопок */
+        .button {
+            display: inline-block;
+            padding: 10px 20px;
+            margin: 10px;
+            background-color: #3498db;
+            color: #ffffff;
+            text-decoration: none;
+            border-radius: 5px;
+            transition: background-color 0.3s, color 0.3s;
+        }
+
+        /* Стили для наведения */
+        .button:hover {
+            background-color: #7CFC00;
+            color: #ffffff;
+        }
+
+        /* Стили для посещенных ссылок */
+        .button:visited {
+            background-color: #95a5a6;
+            color: #ffffff;
+        }
+    </style>
+</head>
+<body>
+    <a href="
+https://www.instagram.com/hamzathatsiev?igsh=MTh2OWFtMTU4eHBsMQ==" class="button">hamzathatsiev</a>
+    <a href="https://www.instagram.com/madi_realtor?igsh=MW8xYWsxNjYwdDgxbA==" class="button">madi_realtor</a>
+    <a href="https://www.instagram.com/imran_estate_?igsh=dWc0OGhleWhteW93" class="button">imran_estate</a>
+    <a href="https://www.instagram.com/aset_rieltor?igsh=amVpbWVkOG9kcGVq" class="button">aset_rieltor</a>
+    <a href="https://www.instagram.com/maerbek_gucci?igsh=MW0xM205em5hbXJvaQ==" class="button">maerbek_gucci</a>
+    <a href="
+https://www.instagram.com/foxstone_chr?igsh=azZsMmMzaXRpNno5" class="button">foxstone_chr</a>
+</body>
+</html>
